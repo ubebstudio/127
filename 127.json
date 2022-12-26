@@ -3,7 +3,7 @@
   "album": [
     "NCT", "Taeil","Johnny","Taeyong","Yuta","Doyoung","Jaehyun","Jungwoo","Mark","Haechan"
   ],
-  "init_jumlah_photo": 100,
+  "init_jumlah_photo": 50,
   "admob_banner_id": "ca-app-pub-4680921445869325/2308218154",
   "admob_interstitial_id": "cca-app-pub-4680921445869325/2898696357",
   "admob_native_id": "ca-app-pub-4680921445869325/1585614689",
